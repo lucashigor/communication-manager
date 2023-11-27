@@ -1,1 +1,2 @@
+[![Quality Gate Status](https://adasit-sonarqube.azurewebsites.net/api/project_badges/measure?project=communication-manager&metric=alert_status&token=sqb_a1ba987528120cd14698f0972069bbcd60996553)](https://adasit-sonarqube.azurewebsites.net/dashboard?id=communication-manager)
 # communication-manager
