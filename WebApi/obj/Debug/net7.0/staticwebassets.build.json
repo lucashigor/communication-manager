@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "TQf/vmcMffXrCf2224uglgwV0iSVG6JqzlOPPjAzsJw=",
+  "Source": "Communication.Manager.WebApi",
+  "BasePath": "_content/Communication.Manager.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
