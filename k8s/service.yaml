@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Service
+metadata:
+  labels:
+    app: communication-manager
+  name: communication-manager-svc
+spec:
+  ports:
+    - port: 80
+      targetPort: 5000
