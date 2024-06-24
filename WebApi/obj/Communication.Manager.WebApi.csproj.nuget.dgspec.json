@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucas\\source\\repos\\communication-manager\\WebApi\\Communication.Manager.WebApi.csproj": {}
+    "C:\\Users\\Bosch\\source\\personal\\communication-manager\\WebApi\\Communication.Manager.WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucas\\source\\repos\\communication-manager\\WebApi\\Communication.Manager.WebApi.csproj": {
+    "C:\\Users\\Bosch\\source\\personal\\communication-manager\\WebApi\\Communication.Manager.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas\\source\\repos\\communication-manager\\WebApi\\Communication.Manager.WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\Bosch\\source\\personal\\communication-manager\\WebApi\\Communication.Manager.WebApi.csproj",
         "projectName": "Communication.Manager.WebApi",
-        "projectPath": "C:\\Users\\lucas\\source\\repos\\communication-manager\\WebApi\\Communication.Manager.WebApi.csproj",
-        "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas\\source\\repos\\communication-manager\\WebApi\\obj\\",
+        "projectPath": "C:\\Users\\Bosch\\source\\personal\\communication-manager\\WebApi\\Communication.Manager.WebApi.csproj",
+        "packagesPath": "C:\\Users\\Bosch\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bosch\\source\\personal\\communication-manager\\WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Bosch\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -39,6 +39,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -77,7 +82,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
